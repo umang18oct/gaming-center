@@ -1,0 +1,20 @@
+What is the capital of India?
+New Delhi,Mumbai,China,Vellore
+New Delhi
+100
+Where is VIT located?
+New Delhi,Chennai,Bangalore,Indonesia
+Chennai
+500
+Which city is called as Silicon Valley of India?
+Bangalore,Vellore,Gurgaon,Hyderabad
+Bangalore
+1000
+Which of these scientists has not won two Nobel Prizes ?
+John Bardeen,Frederick Sanger,Linus Pauling,Niels Bohr
+Niels Bohr
+5000
+Who commanded the 'Hector', the first British trading ship to land at Surat ?
+Paul Canning,William Hawkins,Thomas Roe,James Lancaster
+William Hawkins
+10000
